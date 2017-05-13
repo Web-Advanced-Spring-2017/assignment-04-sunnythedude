@@ -1,0 +1,56 @@
+/* CAROUSEL */
+
+.carousel-item {
+		width: 100%;
+		height: 400px;
+}
+
+.carousel-indicators {
+	bottom: -65px !important;
+
+	li {
+	border: 1px solid #e82e21; 
+	height: 10px !important;
+	width: 10px;
+	border-radius: 25px;
+
+
+	}
+
+	.active {
+		background-color: #e82e21;
+	}
+
+
+}
+
+.carousel-caption {
+	background-image: url("../../img/pattern-box.jpg");
+	background-repeat: repeat;
+	background-size: 13% auto;
+
+    text-align: inherit;
+    background-color: black;
+    top: 1px;
+    height: inherit;
+    margin: 0;
+    padding: 17px 20px;
+    width: 285px;
+    left: 444px;
+
+    h3 {
+    	font-weight: 700;
+    	line-height: 1.2;
+    }
+
+    p {
+    	font-size: 14px;
+    	font-weight: 100;
+    }
+
+    span {
+    	color: #e82e21;
+		font-weight: 100;
+		font-size: 14px;
+    }
+}

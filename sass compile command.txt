@@ -1,0 +1,14 @@
+sass --watch app/sass:public/stylesheets
+
+sass --watch styles/main.scss:styles/compiled/main.css
+
+use jQuery
+
+node js variables pug templates
+
+firebase query methods
+
+
+
+
+

@@ -1,0 +1,38 @@
+/* MODAL */
+
+.modal-body .form-horizontal .col-sm-2,
+.modal-body .form-horizontal .col-sm-10 {
+    width: 100%
+}
+
+.modal-body .form-horizontal .control-label {
+    text-align: left;
+}
+.modal-body .form-horizontal .col-sm-offset-2 {
+    margin-left: 15px;
+}
+
+.modal-body {
+	label {
+		font-weight: 600;
+	}
+
+	.checkbox-label {
+		font-weight: normal;
+		font-size: 13px;
+	}
+}
+
+.modal-title {
+	font-weight: 600;
+}
+
+.modal-btn {
+	background-color: #de1b13;
+	border: none;
+}
+
+.modal-btn:hover, .modal-btn:active{
+	 background-color: #bb0700;
+	 cursor: pointer;
+}

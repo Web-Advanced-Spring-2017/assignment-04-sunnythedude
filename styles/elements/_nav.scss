@@ -1,0 +1,54 @@
+/* NAV */
+
+.nav-item {
+	span {
+		color: white;
+		font-size: 23px;
+		margin: 0 2em;
+	}
+
+	a {
+		font-weight: 700;
+		color: white !important;
+		transition: all 0.2s ease-in-out;
+	}
+
+	a:hover {
+		color: #F5D958 !important;
+	}
+} 
+
+nav {
+	.form-control {
+		border: 0;
+	}	
+}
+
+
+.footer{
+	margin-top: 100px;	
+
+	p {
+		text-align: center;
+		color: white;
+		padding-top: 13px;
+	}
+}
+
+.top-nav {
+	height: 80px;
+}
+
+.logo {
+	width: 290px;
+	padding-top: 20px;
+}
+
+.bulletin {
+	width: 240px;
+	padding-top: 15px;
+}
+
+.red-bg {
+	background-color: #e82e21;
+}
