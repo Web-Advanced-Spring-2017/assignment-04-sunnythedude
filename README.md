@@ -31,7 +31,11 @@ An eBulletin board (Website) for New School members (students and staff) that pr
 
 ## Why it would work?
 
-The College student is a unique demographic. College tuition is a burden in of itself but add to that the cost of supplies, food and rent, that burden weighs you down further. This is why students are always on the lookout for second hand supplies and shared accommodation. The current student network systems employed at the Newschool to assist with such transactions are essentially a pin up board with a clatter of posters and a group mail. The Newschool Bulletin Board is a website digitizes that platform adding organization and the ability to stream your searches resulting in increased efficiency and an expanded network. 
+The College student is a unique demographic. College tuition is a burden in of itself but add to that the cost of supplies, food and rent, that burden weighs you down further. This is why students are always on the lookout for second hand supplies and shared accommodation. The current student network systems employed at the Newschool to assist with such transactions are essentially a pin up board with a clatter of posters and a group mail. The Newschool Bulletin Board is a website digitizes that platform adding organization and the ability to stream your searches resulting in increased efficiency and an expanded network.
+
+<br>
 
 
+## Firebase Database
 
+<img src="https://github.com/Web-Advanced-Spring-2017/assignment-04-sunnythedude/blob/master/img/firebase.png">
